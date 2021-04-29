@@ -1,1 +1,4 @@
 # Homogenous-transformations-in-2D
+
+This a desktop application that uses affine transformations to support poster composition. Users can drag and drop an image or one of the given figures on the poster panel. Application allows for translation of elements on poster by draging the center of the element with left-click of the mouse and rotation or scaling by draging the vertices of the element with left and right click of mouse, respectively.
+Moreover, Users can fine tune translation and rotation of elements by buttons on bottom. They can also store all images and affine transformations in text file and load them later on. Saving whole poster as raster image is also one of the functions of app, by clciking on "Give dimensions for Save image" users can even give arbitrary width and height. At last, elements can be deleted from poster by right click of the center.
